@@ -18,6 +18,8 @@ document.getElementById("linkin").addEventListener("click", () => {
   );
 });
 
+
+
 document.getElementById("gitin").addEventListener("click", () => {
   window.open("https://github.com/abhiicodes", "_blank");
 });
