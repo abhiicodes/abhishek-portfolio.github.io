@@ -31,6 +31,9 @@ img {
 li {
     list-style: none;
 }
+#linkin,#gitin{
+    cursor: pointer;
+}
 
 .container {
     max-width: 114rem;
